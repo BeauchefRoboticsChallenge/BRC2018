@@ -1,2 +1,8 @@
-# reglas
-En este repositorio se compartirá información relacionada con las reglas de la competencia.
+# Beauchef Robotics Challenge 2018  
+En este repositorio se recopilará información relacionada con la competencia
+
+## Bitácora
+
+## Reglas
+
+## ETC.
